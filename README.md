@@ -30,6 +30,6 @@ El archivo `pra1_estructura.js` incluye la definición de las funciones que deb�
 
 ## Autores
 
-- Kepa Sarasola Bengoetxea y Vicent Moncho Mas
+- Kepa Sarasola Bengoetxea, Vicent Moncho Mas y Marta Díez Casas
 
 
